@@ -1,0 +1,65 @@
+[
+    {
+        "english": "elephant",
+        "french": "éléphant",
+        "german": "elefant",
+        "italian": "elefante",
+        "spanish": "elephant"
+    },
+    {
+        "english": "giraffe",
+        "french": "girafe",
+        "german": "giraffe",
+        "italian": "giraffa",
+        "spanish": "jirafa"
+    },
+    {
+        "english": "hippopotamus",
+        "french": "hippopotame",
+        "german": "nilpferd",
+        "italian": "ippopotamo",
+        "spanish": "hipopótamo"
+    },
+    {
+        "english": "monkey",
+        "french": "singe",
+        "german": "affe",
+        "italian": "scimmia",
+        "spanish": "mono"
+    },
+    {
+        "english": "parrot",
+        "french": "perroquet",
+        "german": "papagei",
+        "italian": "pappagallo",
+        "spanish": "loro"
+    },
+    {
+        "english": "penguin",
+        "french": "manchot",
+        "german": "pinguin",
+        "italian": "pinguino",
+        "spanish": "pingüino"
+    },
+    {
+        "english": "pig",
+        "french": "cochon",
+        "german": "schwein",
+        "italian": "maiale",
+        "spanish": "cerdo"
+    },
+    {
+        "english": "rabbit",
+        "french": "lapin",
+        "german": "kaninchen",
+        "italian": "coniglio",
+        "spanish": "conejo"
+    },
+    {
+        "english": "snake",
+        "french": "serpent",
+        "german": "schlange",
+        "italian": "serpente",
+        "spanish": "serpiente"
+    }
+]

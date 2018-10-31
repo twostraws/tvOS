@@ -1,0 +1,1 @@
+https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&titles=\(searchTitle)&redirects=true

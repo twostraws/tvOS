@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+  <head>
+    <style>
+    .9ColumnGrid {
+      tv-interitem-spacing: 51;
+    }
+    </style>
+  </head>
+  <productTemplate theme="dark">
+    <banner>
+      <infoList>
+        <info>
+          <header>
+            <title>genre</title>
+          </header>
+          <text>[GENRE]</text>
+        </info>
+        <info>
+          <header>
+            <title>director</title>
+          </header>
+          <text>[DIRECTOR]</text>
+        </info>
+        <info>
+          <header>
+            <title>release date</title>
+          </header>
+          <text>[RELEASEDATE]</text>
+        </info>
+      </infoList>
+      <stack>
+        <title>[TITLE]</title>
+        <row>
+          <text>[PRICE]</text>
+        </row>        
+        <description handlesOverflow="true">[SUMMARY]</description>
+        <row>
+          <buttonLockup trailerURL="[TRAILERURL]">
+            <badge src="resource://button-play" />
+            <title>Trailer</title>
+          </buttonLockup>
+        </row>
+      </stack>
+      <heroImg src="[COVERURL]" width="400" height="600" />
+    </banner>
+    <shelf class="9ColumnGrid">
+      <header>
+        <title>More [GENRE] movies</title>
+      </header>
+      <section>
+        [ALTERNATIVES]
+      </section>
+    </shelf>
+  </productTemplate>
+</document>
